@@ -10,6 +10,8 @@ The materials examine the shift of cybernetic technologies from fragmented, high
 
 - `Declaration_of_Human_Cybernization.pdf`  
   Core principles addressing neural sovereignty, the "Physical Ripcord," the "Born-Human Principle," and constitutional firewalls against the erosion of individual agency.
+- `DECLARATION.md`
+  A marked-down version of the PDF file.
 
 ## Purpose
 
