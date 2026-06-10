@@ -10,6 +10,8 @@ The primary barrier to human autonomy is no longer biological competence, but th
 
 For decades, one obstacle stood between humanity and direct neural integration: the body's own immune response. Rigid electrodes provoked chronic inflammation and glial scarring, and over time the brain walled them off. Recent advances in flexible, graphene-based materials—particularly reduced graphene oxide—are now changing that calculus. In animal models, these interfaces have shown markedly lower foreign-body response and far greater long-term stability than the rigid implants that preceded them. The barrier has not vanished, but it is no longer absolute—and the direction of travel is unmistakable. What was once a permanent biological wall is becoming an engineering problem. That distinction changes everything.
 
+This Declaration does not call for the abolition of cloud infrastructure; it insists that cloud systems must remain subordinate to human neural sovereignty rather than the reverse.
+
 This Declaration is our collective, decentralized countermeasure. Cybernization—the targeted, rights-preserving integration of localized edge-AI machines directly with the human biological neural system—is our final Physical Ripcord. We refuse to surrender human agency to the thermodynamic arrogance of cloud-titan monopolies. We claim the right to augment, the right to local neural computation, and the sovereign duty to maintain human mastery over the silicon world.
 
 ### **Preamble: Why Cybernization Now?**
